@@ -13,5 +13,5 @@ postMerge:
 postRun:
      command:
         - node --version
-configFile: rollup.config.js
+# configFile: rollup.config.js
 version: 1.0
